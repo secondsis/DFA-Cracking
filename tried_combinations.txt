@@ -76,3 +76,11 @@ mushroom, pineapple, coconut, pumpkin, mountain top
 mushroom, pineapple, coconut, pine tree, mountain top
 mushroom, pineapple, coconut, rose, mountain top
 mushroom, pineapple, coconut, pepper, mountain top
+dandelion, pepper, mushroom, pineapple, mountain top
+dandelion, pepper, pineapple, mushroom, mountain top
+dandelion, mushroom, pepper, pineapple, mountain top
+dandelion, mushroom, pineapple, pepper, mountain top
+dandelion, pineapple, pepper, mushroom, mountain top
+dandelion, pineapple, mushroom, pepper, mountain top
+dandelion, blue flower, pineapple, rose, mountain top
+dandelion, pineapple, pine tree, coconut, mountain top
